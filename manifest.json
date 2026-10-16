@@ -1,0 +1,14 @@
+{
+  "version": "v0.1.0",
+  "created_at": "2026-10-16T00:00:00Z",
+  "evaku_ml_tag": "v0.1.0",
+  "files": {
+    "unet.onnx": "c382ed231047a9ac36ba090b6df6b4dd0480481472b9fce4bc35478a01435e4e",
+    "normalization_stats.npz": "54b48d4f64cf60782e48eb735eae1960efffa501bdd45dc97bec44057dc72117",
+    "lgbm.txt": "d6b3ffed128aac6d24081d2d059dd8c3700cc4eefcc4ec7910bca536c922115a",
+    "kalibrasi_peluang.json": "a0185fccbbd6839676a60121d788f0751dde6bcdc21502fb26f54f7d41dcc833",
+    "kalibrasi_debit.json": "2a089e37170a04aed171a59bd0fb6c15969ebff2457a70c01c1e019543d91ac7",
+    "fitur.json": "da3beb82e96c0bb484c5b703c04d707f3857f7292ccfcdd8baf980a842265632",
+    "metrics.json": "19f77f2805329b9a82bd30e72285bbda67e6d02d8063a3fb6355aa43cae3d1da"
+  }
+}

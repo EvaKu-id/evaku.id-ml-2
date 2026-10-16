@@ -1,0 +1,15 @@
+{
+  "river_id": "tamiang",
+  "persamaan": "h = max(0.0, a + b * ln(Q))",
+  "koefisien": {
+    "a": -12.1368,
+    "b": 2.208
+  },
+  "rentang_valid_debit_m3s": [
+    250.0,
+    1500.0
+  ],
+  "r_squared": 0.9965,
+  "acuan_tinggi_air": "meter_di_atas_muka_air_normal_sungai",
+  "catatan": "Tinggi air terikat pada baseline HAND (0 m = alur sungai normal)"
+}

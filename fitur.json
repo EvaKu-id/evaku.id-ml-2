@@ -1,0 +1,44 @@
+[
+  {
+    "name": "hujan_1h_mm",
+    "unit": "mm",
+    "window": "1h",
+    "source": "BMKG/GSMaP"
+  },
+  {
+    "name": "hujan_3h_mm",
+    "unit": "mm",
+    "window": "3h",
+    "source": "BMKG/GSMaP"
+  },
+  {
+    "name": "hujan_7h_mm",
+    "unit": "mm",
+    "window": "7d",
+    "source": "BMKG/GSMaP"
+  },
+  {
+    "name": "debit_m3s",
+    "unit": "m3/s",
+    "window": "realtime",
+    "source": "GloFAS/PosDuga"
+  },
+  {
+    "name": "debit_tren_3h",
+    "unit": "m3/s",
+    "window": "3h",
+    "source": "GloFAS/PosDuga"
+  },
+  {
+    "name": "hand_median_m",
+    "unit": "m",
+    "window": "static",
+    "source": "HAND 30m"
+  },
+  {
+    "name": "jarak_sungai_m",
+    "unit": "m",
+    "window": "static",
+    "source": "streams.parquet"
+  }
+]

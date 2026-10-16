@@ -1,0 +1,7 @@
+{
+  "ambang_tinggi": 0.7,
+  "ambang_sedang": 0.35,
+  "skor_max": 1.0,
+  "skor_min": 0.0,
+  "catatan": "Model dilatih Nov 2025 dan terkalibrasi untuk pemicu evakuasi PIP-02"
+}

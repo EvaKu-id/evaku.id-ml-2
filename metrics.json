@@ -1,0 +1,26 @@
+[
+  {
+    "model": "unet",
+    "name": "iou",
+    "value": 0.6448,
+    "note": "Sen1Floods11 test split"
+  },
+  {
+    "model": "unet",
+    "name": "dice",
+    "value": 0.78,
+    "note": "Sen1Floods11 test split"
+  },
+  {
+    "model": "lgbm",
+    "name": "roc_auc",
+    "value": 0.9418,
+    "note": "Uji Okt 2026, dilatih Nov 2025"
+  },
+  {
+    "model": "lgbm",
+    "name": "pr_auc",
+    "value": 0.9161,
+    "note": "Uji Okt 2026, dilatih Nov 2025"
+  }
+]

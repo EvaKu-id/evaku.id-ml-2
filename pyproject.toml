@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "evaku_ml"
+version = "0.1.0"
+description = "Paket ML inferensi untuk EvaKu"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "onnxruntime",
+    "lightgbm",
+    "pandas"
+]
